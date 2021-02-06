@@ -1,0 +1,6 @@
+-i https://mirrors.aliyun.com/pypi/simple/
+tqdm
+prettytable
+requests
+flask
+colorama
